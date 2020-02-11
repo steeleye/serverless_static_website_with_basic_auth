@@ -5,7 +5,7 @@ exports.handler = (event, context, callback) => {
 
     // Credentials definition - customise to fit your needs
     const credentials = {
-        'guest': 'letmein'
+        'developer': 'SteelEye@2020'
     };
 
     // Placeholder list which eventually holds all credential strings
